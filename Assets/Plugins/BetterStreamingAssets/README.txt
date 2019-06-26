@@ -30,7 +30,7 @@ Examples:
 ---------
 Initialization (before first use, needs to be called on main thread):
 
-    BetterStreaminAssets.Initialize();
+    BetterStreamingAssets.Initialize();
 
 Typical scenario, deserializing from Xml:
 
